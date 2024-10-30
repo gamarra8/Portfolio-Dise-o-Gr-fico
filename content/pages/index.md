@@ -129,7 +129,7 @@ sections:
         justifyContent: flex-end
   - type: ContactSection
     colors: colors-a
-    backgroundSize: full
+    backgroundSize: inset
     title: "Tienes una idea interesante? Contacta conmigo...\U0001F4AC"
     form:
       type: FormBlock
