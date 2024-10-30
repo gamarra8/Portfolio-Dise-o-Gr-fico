@@ -22,6 +22,14 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.instagram.com/kelgat.kelgat.kelgat/",
+                "icon": "instagram",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "https://twitter.com/netlify",
